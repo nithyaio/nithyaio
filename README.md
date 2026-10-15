@@ -18,7 +18,7 @@ I’m interested in creating technology that solves problems people actually fac
 
 🌌 Beyond the Screen
 
-Drawn to aviation, physics, music, and the science behind how things work.
+Drawn to aviation, physics, music, art and the science behind how things work.
 
 Still learning. Still experimenting. Moving forward.
 
