@@ -1,4 +1,5 @@
-Nithya
+<img width="1600" height="903" alt="WhatsApp Image 2026-10-16 at 21 46 56" src="https://github.com/user-attachments/assets/916094a7-deb1-440b-aaf9-49d9b85eeb93" />
+
 
 I’m a student exploring the intersection of technology, intelligence, and real-world problem-solving.
 
