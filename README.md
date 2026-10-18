@@ -10,9 +10,7 @@ I’m a student exploring the intersection of technology, intelligence, and real
 - 🤖 Exploring AI, data intelligence, and practical applications of technology
 - 🛠️ Turning ideas into prototypes through projects and hackathons
 - 🧩 Learning to approach complex problems with logic, creativity, and discipline
-
-🚀 What I'm Building Toward
-
+  
 I’m interested in creating technology that solves problems people actually face — not just projects that look good in a presentation.
 
 
