@@ -14,8 +14,8 @@ Hyee, I'm Nithya-undergrad CSE student | 1st year<br><br>🔭 Exploring the fund
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nithyaio&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=There%20are%20few%20sources%20of%20energy%20so%20powerful%20as%20a%20procrastinating%20grad%20student.&author=Paul%20Graham)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nithyaio&limit=5&theme=dark&combine_all_yearly_contributions=true)
