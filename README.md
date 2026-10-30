@@ -21,7 +21,6 @@ Hyee, I'm Nithya-undergrad CSE student | 1st year<br><br>🔭 Exploring the fund
 ![](https://github-contributor-stats.vercel.app/api?username=nithyaio&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nithyaio&icon=3&color=6)](https://visitcount.itsvg.in)
 
 
 
