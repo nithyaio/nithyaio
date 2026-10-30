@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hyee, I'm Nithya-undergrad CSE student | 1st year<br><br>🔭 Exploring the fundamentals of programming through C, and also looking for help with DevOps<br>👯 Fun fact: I love dinosaurs, totally fascinating.<br>🌌 Beyond the Screen: Drawn to aviation, physics, music, and art
 
 
